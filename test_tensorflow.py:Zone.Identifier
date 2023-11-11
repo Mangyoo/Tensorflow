@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://studip.uni-osnabrueck.de/dispatch.php/course/files?cid=efbe8427d4aae873ad11bb3de9ce6d4e
+HostUrl=https://studip.uni-osnabrueck.de/sendfile.php?force_download=1&type=0&file_id=c08512dd808ff5ed7e8eb0a7466aa69b&file_name=test_tensorflow.py
